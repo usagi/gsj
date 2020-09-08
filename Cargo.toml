@@ -1,0 +1,16 @@
+[package]
+authors = ["USAGI.NETWORK / Usagi Ito <the@usagi.network>"]
+categories = ["encoding"]
+description = "Implementation of Geological Survey of Japan algorithms."
+edition = "2018"
+keywords = ["DropSome", "drop_some", "syntax-sugar", "Option"]
+name = "gsj"
+version = "1.0.0"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/usagi/gsj"
+documentation = "https://docs.rs/gsj"
+
+[dependencies]
+image = "0.23.9"
+thiserror = "1.0.20"
