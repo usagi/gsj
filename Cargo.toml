@@ -2,14 +2,14 @@
 authors = ["USAGI.NETWORK / Usagi Ito <the@usagi.network>"]
 categories = ["encoding"]
 description = "Implementation of Geological Survey of Japan algorithms."
+documentation = "https://docs.rs/gsj"
 edition = "2018"
-keywords = ["DropSome", "drop_some", "syntax-sugar", "Option"]
-name = "gsj"
-version = "1.0.0"
+keywords = ["gsj", "maptiles", "nishioka-nagatsu-2015", "dem", "dempng"]
 license = "MIT"
+name = "gsj"
 readme = "README.md"
 repository = "https://github.com/usagi/gsj"
-documentation = "https://docs.rs/gsj"
+version = "1.0.1"
 
 [dependencies]
 image = "0.23.9"
